@@ -4,5 +4,6 @@
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Vehicle Type" max_length="40" name="vehicle_type" type="string"/>
         <element label="Vendor Name" max_length="100" name="vendor_name" type="string"/>
+        <element label="VNumber" max_length="40" name="vnumber" type="string"/>
     </element>
 </database>
