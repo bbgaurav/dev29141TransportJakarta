@@ -53,7 +53,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-12-14 06:57:35</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>403c7c910f030300b5568e8ce1050e12</sys_id>
+        <sys_id>df2a09990f030300b5568e8ce1050ece</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="TransportJakarta" source="x_15739_transport">687bfc510f030300b5568e8ce1050e8b</sys_package>
@@ -61,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TransportJakarta">687bfc510f030300b5568e8ce1050e8b</sys_scope>
         <sys_update_name>sys_dictionary_x_15739_transport_vendor_number</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-12-14 06:57:35</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-12-14 07:58:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
